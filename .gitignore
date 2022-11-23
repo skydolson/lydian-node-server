@@ -1,0 +1,11 @@
+# this file is invisible to the OS because of the way it is configured
+
+# we tell github which files and folders to ignore
+
+# when you have a crazy number of node modules, things
+
+# get crazy.
+
+node_modules/
+.DS_Store
+*.log
